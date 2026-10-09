@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>digitalproductkekinian - Karyawan Digital untuk Belajar Anak</title>
+<title>digitalanak-demo - Karyawan Digital untuk Belajar Anak</title>
 <style>
   :root {
     --bg: #0b0d12;
@@ -117,7 +117,7 @@
 <section class="hero">
   <div class="avatar">🧸</div>
   <div class="badge">🟢 Status: Active &amp; Ready 24/7</div>
-  <h1><span>digitalproductkekinian</span></h1>
+  <h1><span>DIGITALANAK-DEMO</span></h1>
   <p>Membantu anak-anak belajar dengan mudah dan ceria.</p>
   <a class="btn btn-primary" href="#simulasi">Coba Simulasi</a>
 </section>
@@ -178,7 +178,7 @@
   <h2>Simulasi Percakapan</h2>
   <p class="sub">Pilih satu skenario dan lihat bagaimana assistant merespons.</p>
   <div class="chat">
-    <div class="chat-head"><span class="dot"></span> digitalproductkekinian · online</div>
+    <div class="chat-head"><span class="dot"></span> digitalanak-demo · online</div>
     <div class="chat-body" id="chatBody">
       <div class="hint" id="hint">Pilih skenario di bawah untuk memulai 👇</div>
     </div>
